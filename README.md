@@ -19,7 +19,7 @@ Language material
 Location of where the item was created or came from.
 ### Publisher
 Notes stating who printed the item.
-### Date
+### Date Created
 Date created or issued. Dates span from the late 1700's through the early 1800's.
 ### Issuance
 Monograph/item
@@ -30,35 +30,57 @@ Language(s) seen in this collection include: English.
 ### Form
 A particular physical presentation of a resource, including the physical form or medium of material for a resource. 
 
-Form terms include: Electronic
+Form terms include: electronic
 ### Internet Media Type
-tiff
+Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. 
+
+Media type(s) in this collection: tiff
 ### Extent
-Describes the number of pages and size of the document.
+The size or scale of the work.
 ### Digital Origin
-Reformatted digital
+The method by which a resource achieved digital form.
+
+ Origin for this collection: reformatted digital
+
 ### Table of Contents
 Links provided to a table of contents page, but links no longer work.
 ### Note
-Notes provide additional information about authors and title information.
+Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant.
+
 ### Subject Topic
-Subject headings used frequently include: English poetry; English literature; Children's poetry; Religious poetry, English
+A term or phrase representing the primary topic(s) on which a work is focused. 
+
+Common subject terms used in this collection include: English poetry; English literature; Children's poetry; Religious poetry, English
 ### Subject Name
-A person or entity mentioned or depicted within the item
+A name used as a subject or additional authors, recipients, or names mentioned within the record.
+
 ### Subject Geographic
-Places that are about or mentioned within the item. Coverage terms seen frequently include:Great Britain; France; South Carolina
+Geographic location(s) relevant to the item. 
+
+Some coverage terms used in the collection include: Great Britain; France; South Carolina
 ### Subject Temporal
-19th century
+Used for chronological subject terms or temporal coverage. 
+
+Terms used: 19th century
 ### Classification
 Library of Congress classification number assigned to the item.
 ### Related Item
-Brief note if the item is related to another item in the collection.
+Information that identifies other resources related to the one being described.
+
 ### Identifier
-Identifier given to the item. An example is:
+Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. 
+
+Example: b3764564x
+
 ### Physical Location
-UCB Libraries Special Collections
+The institution or repository that holds the resource or where it is available: UCB Libraries Special Collections
 ### Access Condition
-Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. In addition, the reproduction of some materials may be restricted by terms of gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. Works not in the public domain cannot be used commercially without permission of the copyright owner. Responsibility for any use rests exclusively with the user.
+Information about restrictions imposed on access to a resource.
+
+Statement in collection: Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. In addition, the reproduction of some materials may be restricted by terms of gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. Works not in the public domain cannot be used commercially without permission of the copyright owner. Responsibility for any use rests exclusively with the user.
 ## Resources
+
+For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Women poets, American -- 20th century](https://archives.colorado.edu/subjects/144).
+
 ## Notes
 Collection includes a mix of MARC metadata and non-MARC metadata.
