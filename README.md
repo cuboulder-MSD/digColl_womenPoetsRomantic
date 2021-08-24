@@ -63,7 +63,7 @@ A name used as a subject or additional authors, recipients, or names mentioned w
 ### Subject Geographic
 Geographic location(s) relevant to the item. 
 
-Some coverage terms used in the collection include: [Great Britain](http://id.worldcat.org/fast/1204623); [France--Paris](http://id.worldcat.org/fast/1205283; [South Carolina](http://id.worldcat.org/fast/1204600)
+Some coverage terms used in the collection include: [Great Britain](http://id.worldcat.org/fast/1204623); [France--Paris](http://id.worldcat.org/fast/1205283); [South Carolina](http://id.worldcat.org/fast/1204600)
 ### Subject Temporal
 Used for chronological subject terms or temporal coverage. 
 
