@@ -72,7 +72,8 @@ Terms used: [19th century](http://id.loc.gov/authorities/subjects/sh2002012475)
 Local classification number assigned to the item, as well as a bibliographic number for identification in the library's catalog.
 
 Example classification numbers include: WPRP 372; WPRP 40
-Example bib numbers inlcude: b26536729; b3585960x
+
+Example bib numbers include: b26536729; b3585960x
 ### Related Item
 Information that identifies other resources related to the one being described.
 
