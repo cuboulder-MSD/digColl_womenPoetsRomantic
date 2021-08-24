@@ -18,7 +18,7 @@ Language material
 ### Place Term
 Location of where the item was created or came from.
 
-Place terms typically are:[England--London](http://id.worldcat.org/fast/1204271); [Scotland--Edinburgh](http://id.worldcat.org/fast/1205145)
+Place terms typically are: [England--London](http://id.worldcat.org/fast/1204271); [Scotland--Edinburgh](http://id.worldcat.org/fast/1205145)
 ### Publisher
 Notes stating who printed the item.
 ### Date Created
